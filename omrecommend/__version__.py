@@ -1,0 +1,8 @@
+__version__ = '0.1.0'
+__title__ = 'omrecommend'
+__description__ = 'Agent based recommendation package for OpenMaker community.'
+__url__ = 'http://github.com/bulentozel/omrecommend'
+__author__ = 'Bulent Ozel'
+__author_email__ = 'bulent.ozel@gmail.com'
+__license__ = 'Apache2'
+__copyright__ = 'Copyright 2018 Bulent Ozel'
