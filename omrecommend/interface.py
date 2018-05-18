@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Generic interface for recommendations.
 
-This module contains interface fucntions that cna be driven by external API interfaces such as
+This module contains interface fucntions that can be driven by external API interfaces such as
 Flask, Django, Tornado, etc.
 
 Todo:
